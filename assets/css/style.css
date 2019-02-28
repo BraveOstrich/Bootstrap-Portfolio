@@ -1,0 +1,104 @@
+body{
+    background-image: url("../images/white-waves.png");
+}
+
+.navbar{
+    width: 100%;
+    background-color: #ffffff;
+    padding: 0;
+    border-style: solid;
+    border-width: 0px 0px 3px 0px;
+    border-color: #cccccc;
+}
+
+.navigation{
+    width: 960px;
+    margin: 0 auto;
+}
+
+.navbar-brand{
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    float: left;
+    background-color: #4aaaa5;
+    padding: 10px;
+    
+}
+
+.nav-item{
+    padding-top: 20px;
+}
+
+.container{
+    background-color: #ffffff;
+    max-width: 960px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    padding: 30px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #dddddd;
+}
+
+
+h1{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: white;
+    padding: 0px 10px 0px 10px;
+}
+
+.thumbnail{
+    margin: 0px 0px 20px 0px;
+}
+
+h2{
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    padding: 0px 0px 0px 20px;
+}
+
+.nav-link, p{
+    color: #777777;
+}
+
+.portfolio{
+    border-style: solid;
+    border-width: 0px 2px 0px 2px;
+    border-color: #777777;
+}
+
+#Textarea1{
+    height: 200px;
+}
+
+h5{
+    background-color: #4aaaa5;
+    text-align: center;
+    margin-bottom: -20px;
+    padding: 10px;
+}
+
+.card{
+    border-color: #ffffff;
+    width: 250px;
+    height: 225px;
+    margin-bottom: 30px;
+}
+
+.card-title {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    right: 0px;
+}
+
+.footer{
+    background-color: #666666;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    padding: 10px;
+}
+
+.footer-text{
+    color: #777777;
+    padding: 10px;
+}
